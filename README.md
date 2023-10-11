@@ -8,12 +8,12 @@ Create a web service for the end user to predict the price of a car based on its
 
 This project uses:
 
-Jupyter
-Numpy
-Pandas
-Scikit-learn (Linear regressor)
-Seaborn
-FastAPI
+- Jupyter
+- Numpy
+- Pandas
+- Scikit-learn (Linear regressor)
+- Seaborn
+- FastAPI
 
 # Dataset description
 
