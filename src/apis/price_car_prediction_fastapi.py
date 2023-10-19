@@ -1,5 +1,5 @@
-# FastAPI service to infere the price of a car
-# activate conda: $ source venv/bin/activate
+# FastAPI service to infer the price of a car
+# activate Pyenv: $ source venv/bin/activate
 # run locally: $ uvicorn price_car_prediction_fastapi:app --reload
 # test terminal: $ 
 # test browser: http://localhost:8000/docs 
